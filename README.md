@@ -1,6 +1,10 @@
 # Excel Projects 
 ## Sales Report :
-**LinkedIn Post** : https://www.linkedin.com/feed/update/urn:li:activity:7349360128380329984/
+**LinkedIn Post** : _[Sales & Finance Analytics](https://www.linkedin.com/feed/update/urn:li:activity:7349360128380329984/)_
+
+**Slides of Project** : _[Sales & Finance Analytics  ](https://github.com/bhumikacg/Business-Insights-360/blob/main/Business%20Insights%20-%20360.pdf)_
+
+
 - **Project objective:** 
 
     **1.** Create a _[customer performance report](https://github.com/bhumikacg/Excel-Projects/blob/main/Customer%20Performance%20Report.pdf)_ 
