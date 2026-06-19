@@ -1,6 +1,6 @@
-# Excel Projects
+# Excel Projects 
 ## Sales Report :
-
+**LinkedIn Post** : https://www.linkedin.com/feed/update/urn:li:activity:7349360128380329984/
 - **Project objective:** 
 
     **1.** Create a _[customer performance report](https://github.com/bhumikacg/Excel-Projects/blob/main/Customer%20Performance%20Report.pdf)_ 
