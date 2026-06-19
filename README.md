@@ -2,7 +2,7 @@
 ## Sales Report :
 **LinkedIn Post** : _[Sales & Finance Analytics](https://www.linkedin.com/feed/update/urn:li:activity:7349360128380329984/)_
 
-**Slides of Project** : _[Sales & Finance Analytics  ](https://github.com/bhumikacg/Business-Insights-360/blob/main/Business%20Insights%20-%20360.pdf)_
+**Slides of Project** : _[Sales & Finance Analytics  ](https://github.com/bhumikacg/Excel-Sales-Finance_Analytics/blob/main/Slides%20of%20Sales%20and%20Finance%20Analytics.pdf)_
 
 
 - **Project objective:** 
